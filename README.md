@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrTsekar a cyber security analyst
 - 👀 I’m interested in penetration testing, Networking, Cloud Computing
-- 🌱 I’m currently learning Advanced Cybersecurity Techniques, Python Programming Language, AWS cloud services
+- 🌱 I’m currently working on Advanced Cybersecurity Techniques, Python Programming Language, AWS cloud services
 - 💞️ I’m looking to collaborate on Cybersecurity, Python, Cloud computing
 - 📫 How to reach me email: mr.tsekar01@gmail.com linkedin: www.linkedin.com/in/elijah-tsekar
 - 😄 Pronouns: He/Him
