@@ -1,3 +1,5 @@
+![Linkedin Badge](https://img.shields.io/badge/-MrTsekar-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/elijah-tsekar/)
+![Twitter Badge](https://img.shields.io/badge/-@MrTsekar-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Mr_T_E)
 - 👋 Hi, I’m @MrTsekar a cyber security analyst
 - 👀 I’m interested in penetration testing, Networking, Cloud Computing
 - 🌱 I’m currently working on Advanced Cybersecurity Techniques, Python Programming Language, AWS cloud services
